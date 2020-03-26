@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DC7F-A0E4
+
+ Directory of C:\Users\USER\Desktop\project seekace\java
+
+03/26/2020  05:49 PM    <DIR>          .
+03/26/2020  05:49 PM    <DIR>          ..
+03/26/2020  05:49 PM                 0 file123.txt
+03/26/2020  04:45 PM               674 Hello.class
+03/26/2020  03:55 PM               151 Hello.java
+03/26/2020  04:31 PM                37 push.bat
+03/26/2020  05:02 PM               516 readme.txt
+               5 File(s)          1,378 bytes
+               2 Dir(s)  22,148,354,048 bytes free
